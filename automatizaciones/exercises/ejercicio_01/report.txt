@@ -1,0 +1,9 @@
+Archivo file_2.txt eliminado
+Archivo file_3.txt eliminado
+Archivo file_7.txt eliminado
+Archivo file_16.txt eliminado
+Archivo file_1.txt eliminado
+Archivo file_10.txt eliminado
+Archivo file_11.txt eliminado
+Archivo file_13.txt eliminado
+Archivo file_14.txt eliminado
