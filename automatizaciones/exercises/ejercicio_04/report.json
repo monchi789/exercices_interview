@@ -1,0 +1,49 @@
+{
+    "log_levels": {
+        "INFO": 13947,
+        "ERROR": 2002,
+        "WARNING": 4051
+    },
+    "top_10_errors": [
+        [
+            "Invalid input data",
+            225
+        ],
+        [
+            "Disk write error",
+            214
+        ],
+        [
+            "User authentication failed",
+            210
+        ],
+        [
+            "Permission denied",
+            207
+        ],
+        [
+            "Redis connection lost",
+            199
+        ],
+        [
+            "Database connection failed",
+            198
+        ],
+        [
+            "File not found",
+            194
+        ],
+        [
+            "Timeout contacting payment API",
+            187
+        ],
+        [
+            "Service unavailable",
+            187
+        ],
+        [
+            "Email sending failed",
+            181
+        ]
+    ]
+}
